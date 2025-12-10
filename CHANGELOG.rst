@@ -2,11 +2,12 @@
 Changelog for package robot_localization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.5.3 (2024-04-16)
+3.5.3 (2025-12-10)
 ------------------
+* BW patch for ROS2: Added FromLLArr, ToLLArr and SetDatum services
 * TF Prefix Bug (`#876 <https://github.com/cra-ros-pkg/robot_localization/issues/876>`_)
 * Fixing angle clamping for humble (`#854 <https://github.com/cra-ros-pkg/robot_localization/issues/854>`_)
-* Contributors: Tom Moore, rafal-gorecki
+* Contributors: Bluewhite, Tom Moore, rafal-gorecki
 
 3.5.2 (2023-12-20)
 ------------------
